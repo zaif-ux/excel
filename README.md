@@ -21,11 +21,7 @@ Excel formulas (COUNTIFS, SUMIFS, SUMPRODUCT, INDEX/MATCH), data cleaning with l
 
 Data note
 
-The data is synthetic: 78 sample records generated for this project, with data-quality problems added on purpose. All findings are illustrative, not real. The workbook was built with AI assistance (Claude).
-
 Using your own data
-
-Paste your data into Outreach_Data columns A–Q (same headers). The calculated columns and dashboard update automatically; extend the formulas if you add rows.
 
 Author: Md. Huzeifa Yaseen Shaikh · GitHub# excel
 excel project
